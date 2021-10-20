@@ -1,0 +1,469 @@
+@prefix ns1: <http://www.w3.org/2002/07/owl#> .
+@prefix rso: <http://www.regionesiciliana.it/ontology/> .
+
+<http://www.regionesiciliana.it/resource/1> rso:description "La vendita avviene quotidianamente con asta a voce. Il mercato ittico è sito in via Cristoforo Colombo, aperto ma non funzionante."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates1> ;
+    rso:localization "Largo San Paolo molo di ponente e di levante. Sciacca, AG" ;
+    rso:name "Mercato" ;
+    rso:province <http://dbpedia.org/resource/Agrigento> ;
+    rso:town <http://dbpedia.org/resource/Sciacca> ;
+    rso:type "Mercato Ittico" ;
+    ns1:sameAs <http://dbpedia.org/resource/Mercato> .
+
+<http://www.regionesiciliana.it/resource/10> rso:description "Ha antiche origini e si svolge l'ultima domenica di maggio con una durata di tre giorni."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates10> ;
+    rso:localization "Contrada Bellia presso la chiesa della Madonna della Noce" ;
+    rso:name "Fiera di Maggio" ;
+    rso:province <http://dbpedia.org/resource/Enna> ;
+    rso:town <http://dbpedia.org/resource/Piazza_Armerina> ;
+    rso:type "Fiera Zootecnica" .
+
+<http://www.regionesiciliana.it/resource/11> rso:description "La vendita avveniva al chiuso di una struttura costruita sulla banchina, attualmente non utilizzata; la vendita all'ingrosso avviene giornalmente tramite asta con banditore."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates11> ;
+    rso:localization "Banchina del porto di Piano Stenditoio. Isola delle Femmine, PA" ;
+    rso:name "u' scaru" ;
+    rso:province <http://dbpedia.org/resource/Palermo> ;
+    rso:town "Isola delle Femmine" ;
+    rso:type "Mercato Ittico" .
+
+<http://www.regionesiciliana.it/resource/12> rso:description "Mercato di origine musulmana aperto tutti i giorni; da tempo ospita numerose botteghe di articoli extracomunitari."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates12> ;
+    rso:localization "Quartiere Albergheria, tra piazza Ballarò e piazza Carmine. Palermo" ;
+    rso:name "Ballarò" ;
+    rso:province <http://dbpedia.org/resource/Palermo> ;
+    rso:town <http://dbpedia.org/resource/Palermo> ;
+    rso:type "Mercato Alimentare" .
+
+<http://www.regionesiciliana.it/resource/13> rso:description "Citato nelle cronache del 1184 come quartiere musulmano a vocazione commerciale. Si collega al mercato di tessuti ed articoli connessi di via Sant'Agostino."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates13> ;
+    rso:localization "Zona Monte di Pietà, ingresso da porta Carini, via Volturno. Palermo" ;
+    rso:name "Capo" ;
+    rso:province <http://dbpedia.org/resource/Palermo> ;
+    rso:town <http://dbpedia.org/resource/Palermo> ;
+    rso:type "Mercato Alimentare" ;
+    ns1:sameAs <http://dbpedia.org/resource/Capo> .
+
+<http://www.regionesiciliana.it/resource/14> rso:description "Di origine angioina, richiama nel nome il mercato della carne (bocceria). Si estende alle vie del rione in cui avevano sede diverse  corporazioni di artigiani: materassai, argentieri, cassari, etc.."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates14> ;
+    rso:localization "Piazza Caracciolo. Palermo" ;
+    rso:name "Vucciria" ;
+    rso:province <http://dbpedia.org/resource/Palermo> ;
+    rso:town <http://dbpedia.org/resource/Palermo> ;
+    rso:type "Mercato Alimentare" .
+
+<http://www.regionesiciliana.it/resource/15> rso:description "Si sviluppa nel sec.XVI per le attività di botteghe alimentari e piccoli esercizi artigianali. La sera è diventato luogo di ritrovo giovanile."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates15> ;
+    rso:localization "Tra via Ximenes e Corso Scinà. Palermo" ;
+    rso:name "Borgo Vecchio" ;
+    rso:province <http://dbpedia.org/resource/Palermo> ;
+    rso:town <http://dbpedia.org/resource/Palermo> ;
+    rso:type "Mercato Alimentare" .
+
+<http://www.regionesiciliana.it/resource/16> rso:description "Mercato storico coperto con sede in un edificio di fine '800. Nonostante il nome, giornalmente vi si vendono vari generi alimentari."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates16> ;
+    rso:localization "Piazza Mercato a ridosso di Porta Garibaldi. Marsala" ;
+    rso:name "A Chiazza" ;
+    rso:province <http://dbpedia.org/resource/Trapani> ;
+    rso:town <http://dbpedia.org/resource/Marsala> ;
+    rso:type "Mercato Alimentare" .
+
+<http://www.regionesiciliana.it/resource/17> rso:description "La vendita del pescato avviene tradizionalmente al dettaglio. Altre sedi di vendita sono la marina sul molo e le vie limitrofe."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates17> ;
+    rso:localization "Largo dello Scalo. Mazzara del Vallo,TP" ;
+    rso:name "Mercato ittico" ;
+    rso:province <http://dbpedia.org/resource/Trapani> ;
+    rso:town "Mazara del Vallo" ;
+    rso:type "Mercato Ittico" .
+
+<http://www.regionesiciliana.it/resource/18> rso:description "Mercato a carattere ittico, ma adibito anche ad altri generi alimentari. La vendita all'ingrosso avviene giornalmente al coperto in via Cristoro Colombo."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates18> ;
+    rso:localization "Piazza Mercato.Trapani" ;
+    rso:name "Mercato della Loggia cd.a Chiazza" ;
+    rso:province <http://dbpedia.org/resource/Trapani> ;
+    rso:town <http://dbpedia.org/resource/Trapani> ;
+    rso:type "Mercato Alimentare" .
+
+<http://www.regionesiciliana.it/resource/19> rso:description "La fiera ha cadenza annuale e si svolge in locali recentemente riqualificati. Vi si svolge la compravendita di animali e di attrezzi utili al settore agroalimentare."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates19> ;
+    rso:localization "Foro Boario Contrada Nunziata" ;
+    rso:name "Fiera Agroalimentare Mediterranea F.A.M." ;
+    rso:province <http://dbpedia.org/resource/Ragusa> ;
+    rso:town <http://dbpedia.org/resource/Ragusa> ;
+    rso:type "Fiera Agroalimentare" .
+
+<http://www.regionesiciliana.it/resource/2> rso:description "Il mercato ittico al chiuso è gestito dal Comune; contestualmente la vendita privata avviene sulla banchina del porto."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates2> ;
+    rso:localization "Banchina del porto. Porto Empedocle, AG" ;
+    rso:name "Mercato" ;
+    rso:province <http://dbpedia.org/resource/Agrigento> ;
+    rso:town <http://dbpedia.org/resource/Porto_Empedocle> ;
+    rso:type "Mercato Ittico" ;
+    ns1:sameAs <http://dbpedia.org/resource/Mercato> .
+
+<http://www.regionesiciliana.it/resource/20> rso:description "La vendita avviene giornalmente su colorate bancarelle tra i richiami dei venditori che \"vanniano\" in dialetto illustrando la bontà delle merci."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates20> ;
+    rso:localization "Via De Benedictis Ortigia. Siracusa" ;
+    rso:name "Mercato Antico di Ortigia" ;
+    rso:province <http://dbpedia.org/resource/Siracusa> ;
+    rso:town <http://dbpedia.org/resource/Siracusa> ;
+    rso:type "Mercato Alimentare" .
+
+<http://www.regionesiciliana.it/resource/21> rso:description "La fiera si svolge nell'ultima settimana di settembre con cadenza annuale in concomitanza con la Festa del SS. Crocifisso, opera di Frate Umile Pintorno da Petralia. Dura otto giorni ed è conosciutissima tra gli allevatori siciliani e calabresi."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates21> ;
+    rso:localization "Mojo Alcantara. Messina" ;
+    rso:name "A Fera o' Mojo" ;
+    rso:province <http://dbpedia.org/resource/Messina> ;
+    rso:town <http://dbpedia.org/resource/Mojo_Alcantara> ;
+    rso:type "Fiera Zootecnica Ed Agroalimentare" .
+
+<http://www.regionesiciliana.it/resource/22> rso:description "Sito accanto al Palazzo Comunale sin dal '700, ha sede fissa e cadenza giornaliera."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates22> ;
+    rso:localization "Via Pescheria. Milazzo, Me" ;
+    rso:name "A Chiazza" ;
+    rso:province <http://dbpedia.org/resource/Messina> ;
+    rso:town <http://dbpedia.org/resource/Milazzo> ;
+    rso:type "Mercato Alimentare" .
+
+<http://www.regionesiciliana.it/resource/23> rso:description "Nasce in periodo fascista per la promozione del famoso cavallo sanfratellano; si svolge nel mese di settembre ed ha cadenza annuale."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates23> ;
+    rso:localization "Presso il campo sportivo" ;
+    rso:name "Mostra Mercato Concorso" ;
+    rso:province <http://dbpedia.org/resource/Messina> ;
+    rso:town <http://dbpedia.org/resource/San_Fratello> ;
+    rso:type "Fiera Zootecnica" .
+
+<http://www.regionesiciliana.it/resource/24> rso:description "Risale al '700 ed ha due edizioni ad aprile e novembre. Va perdendo il carattere di fiera di settore originario per acquistare quello di grosso mercato rionale che si estende per chilometri sul lungomare."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates24> ;
+    rso:localization "Piazza Marina Lungomar. Sant'Agata di Militello, ME" ;
+    rso:name "Fiera Storica" ;
+    rso:province <http://dbpedia.org/resource/Messina> ;
+    rso:town "S. Agata di Militello" ;
+    rso:type "Fiera Zootecnica Ed Agroalimentare" .
+
+<http://www.regionesiciliana.it/resource/25> rso:description "La vendita del pesce è gornaliera ed avviene sia al minuto che all'ingrosso. Sul piano Stenditore si svolge anche la processione di Maria SS. del Lume patrona dei pescatori."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates25> ;
+    rso:localization "Piano Stenditore. Porticello, PA" ;
+    rso:name "Mercato" ;
+    rso:province <http://dbpedia.org/resource/Palermo> ;
+    rso:town <http://dbpedia.org/resource/Porticello> ;
+    rso:type "Mercato Ittico" ;
+    ns1:sameAs <http://dbpedia.org/resource/Mercato> .
+
+<http://www.regionesiciliana.it/resource/26> rso:description "La vendita si svolge giornalmente in prossimità del porto prevalentemente peschereccio."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates26> ;
+    rso:localization "Largo Scaro. Terrasini, PA" ;
+    rso:name "Scaro" ;
+    rso:province <http://dbpedia.org/resource/Palermo> ;
+    rso:town <http://dbpedia.org/resource/Terrasini> ;
+    rso:type "Mercato Ittico" .
+
+<http://www.regionesiciliana.it/resource/27> rso:description "La vendita del pesce si è sempre svolta direttamente sulla banchina del porticciolo, ma da più di dieci anni sono state allestite postazioni fisse ricoperte da tende."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates27> ;
+    rso:localization "Via Firenze e via Pirandello. Donnalucata, RG" ;
+    rso:name "Piscaria" ;
+    rso:province <http://dbpedia.org/resource/Ragusa> ;
+    rso:town <http://dbpedia.org/resource/Donnalucata> ;
+    rso:type "Mercato Ittico" ;
+    ns1:sameAs <http://dbpedia.org/resource/Piscaria> .
+
+<http://www.regionesiciliana.it/resource/28> rso:description "Il mercato apre ogni notte per consentire ai pescherecci di scaricare il pescato, che viene venduto all'asta al miglior offerente."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates28> ;
+    rso:localization "Piazza Marina. Aci Trezza, CT" ;
+    rso:name "Piscaria" ;
+    rso:province <http://dbpedia.org/resource/Catania> ;
+    rso:town <http://dbpedia.org/resource/Acitrezza> ;
+    rso:type "Mercato Ittico" ;
+    ns1:sameAs <http://dbpedia.org/resource/Piscaria> .
+
+<http://www.regionesiciliana.it/resource/29> rso:description "La vendita avviene giornalmente all'ingrosso e al dettaglio."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates29> ;
+    rso:localization "Banchina del porto. Ognina, SR " ;
+    rso:name "Piscaria" ;
+    rso:province <http://dbpedia.org/resource/Siracusa> ;
+    rso:town "Ognina" ;
+    rso:type "Mercato Ittico" ;
+    ns1:sameAs <http://dbpedia.org/resource/Piscaria> .
+
+<http://www.regionesiciliana.it/resource/3> rso:description "La vendita è quotidiana e la sede permanente."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates3> ;
+    rso:localization "Porto di Marianello. Licata, AG" ;
+    rso:name "Mercato" ;
+    rso:province <http://dbpedia.org/resource/Agrigento> ;
+    rso:town <http://dbpedia.org/resource/Licata> ;
+    rso:type "Mercato Ittico" ;
+    ns1:sameAs <http://dbpedia.org/resource/Mercato> .
+
+<http://www.regionesiciliana.it/resource/30> rso:description "La vendita avviene giornalmente all'ingrosso e al dettaglio."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates30> ;
+    rso:localization "Banchina del porticciolo. Marzamemi, SR" ;
+    rso:name "Mercato" ;
+    rso:province <http://dbpedia.org/resource/Siracusa> ;
+    rso:town <http://dbpedia.org/resource/Marzamemi> ;
+    rso:type "Mercato Ittico" ;
+    ns1:sameAs <http://dbpedia.org/resource/Mercato> .
+
+<http://www.regionesiciliana.it/resource/31> rso:description "La vendita del pescato avviene all'ingrosso con asta pubblica ed al dettaglio."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates31> ;
+    rso:localization "Banchina del porticciolo. Scoglitti, RG" ;
+    rso:name "Mercato" ;
+    rso:province <http://dbpedia.org/resource/Ragusa> ;
+    rso:town <http://dbpedia.org/resource/Scoglitti> ;
+    rso:type "Mercato Ittico" ;
+    ns1:sameAs <http://dbpedia.org/resource/Mercato> .
+
+<http://www.regionesiciliana.it/resource/32> rso:description "La vendita del pescato avviene all'ingrosso con asta pubblica ed al dettaglio."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates32> ;
+    rso:localization "Banchina del porto vecchi. Lampedusa, AG" ;
+    rso:name "Mercato" ;
+    rso:province <http://dbpedia.org/resource/Agrigento> ;
+    rso:town <http://dbpedia.org/resource/Lampedusa> ;
+    rso:type "Mercato Ittico" ;
+    ns1:sameAs <http://dbpedia.org/resource/Mercato> .
+
+<http://www.regionesiciliana.it/resource/33> rso:description "La vendita del pescato avviene all'ingrosso con asta pubblica ed al dettaglio."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates33> ;
+    rso:localization "Banchina del porticcolo. Porto Palo Menfi, AG" ;
+    rso:name "Mercato" ;
+    rso:province <http://dbpedia.org/resource/Menfi> ;
+    rso:town <http://dbpedia.org/resource/Portopalo> ;
+    rso:type "Mercato Ittico" ;
+    ns1:sameAs <http://dbpedia.org/resource/Mercato> .
+
+<http://www.regionesiciliana.it/resource/34> rso:description "La vendita del pescato avviene all'ingrosso con asta pubblica ed al dettaglio."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates34> ;
+    rso:localization "Banchina del porticciolo. Marinella di Selinunte,TP" ;
+    rso:name "Mercato" ;
+    rso:province <http://dbpedia.org/resource/Trapani> ;
+    rso:town <http://dbpedia.org/resource/Selinunte> ;
+    rso:type "Mercato Ittico" ;
+    ns1:sameAs <http://dbpedia.org/resource/Mercato> .
+
+<http://www.regionesiciliana.it/resource/35> rso:description "Una delle più antiche fiere di bestiame che si tiene il primo ed il sedicesimo giorno di ogni  mese."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates35> ;
+    rso:localization "Foro Boario lungo la SP 74 Canicattini-Floridia, SR" ;
+    rso:name "Fiera del bestiame" ;
+    rso:province <http://dbpedia.org/resource/Siracusa> ;
+    rso:town "Canicattini" ;
+    rso:type "Fiera Zootecnica" .
+
+<http://www.regionesiciliana.it/resource/36> rso:description "La vendita del pescato avviene all'ingrosso con asta pubblica ed al dettaglio."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates36> ;
+    rso:localization "Banchina porticciolo. Ustica, PA" ;
+    rso:name "Mercato" ;
+    rso:province <http://dbpedia.org/resource/Palermo> ;
+    rso:town <http://dbpedia.org/resource/Ustica> ;
+    rso:type "Mercato Ittico" ;
+    ns1:sameAs <http://dbpedia.org/resource/Mercato> .
+
+<http://www.regionesiciliana.it/resource/37> rso:description "Aperto tutti i giorni,  il mercato di anticaglie di Piazza Peranni è fin dal dopoguerra punto di riferimento per chi va in cerca di mobilio e pezzi curiosi e rarità."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates37> ;
+    rso:localization "Piazza Peranni" ;
+    rso:name "Mercatino delle Pulci" ;
+    rso:province <http://dbpedia.org/resource/Palermo> ;
+    rso:town <http://dbpedia.org/resource/Palermo> ;
+    rso:type "Antichità/anticaglie" .
+
+<http://www.regionesiciliana.it/resource/38> rso:description " Mobili e oggetti antichi,  gioielli, bigiotteria, un vasto assortimento di vinile di tutti i generi musicali e vari articoli di modernariato o da collezionismo. Aperto la domenica."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates38> ;
+    rso:localization "Via Dusmet tra Villa Pacini e Porta Uzeda " ;
+    rso:name "Mercatino delle Pulci Archi della Marina" ;
+    rso:province <http://dbpedia.org/resource/Catania> ;
+    rso:town <http://dbpedia.org/resource/Catania> ;
+    rso:type "Antichità/anticaglie" .
+
+<http://www.regionesiciliana.it/resource/39> rso:description "Il Sabato e la Domenica mattina, le bancarelle occupano il perimetro di Villa Garibaldi e il curioso disordine che si viene a formare non è privo di una qualche antica bellezza. Tra le molte varietà di oggetti disponibili si troveranno cimeli legati alla storia del novecento, italiano e non, vecchi vinili e musicassette, giocattoli in legno, libri, suppellettili, quadri e stampe d'arte."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates39> ;
+    rso:localization "Piazza Marina" ;
+    rso:name "Mercatino di Piazza Marina" ;
+    rso:province <http://dbpedia.org/resource/Palermo> ;
+    rso:town <http://dbpedia.org/resource/Palermo> ;
+    rso:type "Antichità/anticaglie" .
+
+<http://www.regionesiciliana.it/resource/4> rso:description "Si trova nel quartiere San Rocco; in origine era destinato alla vendita delle erbe selvatiche raccolte dai \"fogliamara\"; oggi vi si vendono tutti i generi alimentari."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates4> ;
+    rso:localization "Via Consultore Benintendi. Caltanissetta" ;
+    rso:name "Strat'a foglia" ;
+    rso:province <http://dbpedia.org/resource/Caltanissetta> ;
+    rso:town <http://dbpedia.org/resource/Caltanissetta> ;
+    rso:type "Mercato Alimentare" .
+
+<http://www.regionesiciliana.it/resource/40> rso:description "All'interno del quartiere Kalsa, anticamente  sorgevano le drogherie che smerciavano le spezie provenienti dall'Oriente. Oggi il mercato dei Lattarini ha una estensione e un utilizzo differente: vi si trovano negozi e bancarelle di abbigliamento vario, biancheria, lane e cotoni da ricamo, oggettistica, pelletterie, tele, corde, ferramenta, ma anche maglieria e indumenti da campo e militari, come scarponi, stivali di gomma, maglioni marinari e abbigliamento da lavoro come tute, jeans e guanti"@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates40> ;
+    rso:localization "Via Grande Lattarini" ;
+    rso:name "Lattarini" ;
+    rso:province <http://dbpedia.org/resource/Palermo> ;
+    rso:town <http://dbpedia.org/resource/Palermo> ;
+    rso:type <http://dbpedia.org/resource/Mercato> .
+
+<http://www.regionesiciliana.it/resource/41> rso:description "Di recentissima regolarizzazione, nel cuore di Palermo Albergheria, è nato un mercatino dell'usato e di libero scambio, attivo dal martedì alla domenica, dalle 7.30 alle 14.30. Sono posti in vendita o scambiati oggetti ed effetti usati, arredi, piccoli elettrodomestici propri o donati da terzi"@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates41> ;
+    rso:localization "tra piazza Colajanni, via Michele del Giudice, via Corrado Avolio, piazza Ritiro di San Pietro, via San Francesco Saverio e piazza San Pasquale" ;
+    rso:name "Mercatino dell'Albergheria" ;
+    rso:province <http://dbpedia.org/resource/Palermo> ;
+    rso:town <http://dbpedia.org/resource/Palermo> ;
+    rso:type "Usato " .
+
+<http://www.regionesiciliana.it/resource/5> rso:description "Mercato con sede fissa aperto quotidianamente."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates5> ;
+    rso:localization "Piazza Marconi. Acireale, CT" ;
+    rso:name "a pischiria" ;
+    rso:province <http://dbpedia.org/resource/Catania> ;
+    rso:town <http://dbpedia.org/resource/Acireale> ;
+    rso:type "Mercato Alimentare" .
+
+<http://www.regionesiciliana.it/resource/6> rso:description "Si svolge giornalmente ed ha sede fissa."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates6> ;
+    rso:localization "Piazza Carlo Alberto. Catania" ;
+    rso:name "Fera o' luni (Fiera del lunedì)" ;
+    rso:province <http://dbpedia.org/resource/Catania> ;
+    rso:town <http://dbpedia.org/resource/Catania> ;
+    rso:type "Mercato Alimentare E Generi Vari" .
+
+<http://www.regionesiciliana.it/resource/7> rso:description "Attività quotidiana e sede fissa; nasce come mercato ittico ma vi si vendono anche altri generi alimentari."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates7> ;
+    rso:localization "Zona Piazza Duomo: P.zza Di Benedetto, via Pardo, via Gisira. Catania" ;
+    rso:name "Pescheria" ;
+    rso:province <http://dbpedia.org/resource/Catania> ;
+    rso:town <http://dbpedia.org/resource/Catania> ;
+    rso:type "Mercato Alimentare" .
+
+<http://www.regionesiciliana.it/resource/8> rso:description "Ha luogo al chiuso in un edificio degli inizi del '900. Vi si vende pesce ed altri generi alimentari."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates8> ;
+    rso:localization "Lungomare via Duca del Mare angolo Corso Italia. Riposto, CT" ;
+    rso:name "Mercato" ;
+    rso:province <http://dbpedia.org/resource/Catania> ;
+    rso:town <http://dbpedia.org/resource/Riposto> ;
+    rso:type "Mercato Alimentare" ;
+    ns1:sameAs <http://dbpedia.org/resource/Mercato> .
+
+<http://www.regionesiciliana.it/resource/9> rso:description "Ha origini cinquecentesche; deve il suo nome al mese di maggio in cui ricorre annualmente."@it ;
+    rso:isLocated <http://www.regionesiciliana.it/resource/coordinates9> ;
+    rso:localization "Zona Scifitello. Enna bassa" ;
+    rso:name "Fera 'i Maggio" ;
+    rso:province <http://dbpedia.org/resource/Enna> ;
+    rso:town <http://dbpedia.org/resource/Enna> ;
+    rso:type "Fiera Regionale Settore Agro-zootecnico" .
+
+<http://www.regionesiciliana.it/resource/coordinates1> rso:latitude "37.50418168992516" ;
+    rso:longitude "13.083708659362697" .
+
+<http://www.regionesiciliana.it/resource/coordinates10> rso:latitude "37.412214688566564" ;
+    rso:longitude "14.383649312981829" .
+
+<http://www.regionesiciliana.it/resource/coordinates11> rso:latitude "38.19905936591596" ;
+    rso:longitude "13.24862995110295" .
+
+<http://www.regionesiciliana.it/resource/coordinates12> rso:latitude "38.11131618464818" ;
+    rso:longitude "13.361805540943985" .
+
+<http://www.regionesiciliana.it/resource/coordinates13> rso:latitude "38.11919352432728" ;
+    rso:longitude "13.353735315357179" .
+
+<http://www.regionesiciliana.it/resource/coordinates14> rso:latitude "38.117391507343164" ;
+    rso:longitude "13.363725510479942" .
+
+<http://www.regionesiciliana.it/resource/coordinates15> rso:latitude "38.12815541189858" ;
+    rso:longitude "13.358638933368686" .
+
+<http://www.regionesiciliana.it/resource/coordinates16> rso:latitude "37.797552561413816" ;
+    rso:longitude "12.433932958557314" .
+
+<http://www.regionesiciliana.it/resource/coordinates17> rso:latitude "37.65459132756585" ;
+    rso:longitude "12.586798288907616" .
+
+<http://www.regionesiciliana.it/resource/coordinates18> rso:latitude "38.017192309320336" ;
+    rso:longitude "12.509760913110057" .
+
+<http://www.regionesiciliana.it/resource/coordinates19> rso:latitude "36.942010965861144" ;
+    rso:longitude "14.68896921342367" .
+
+<http://www.regionesiciliana.it/resource/coordinates2> rso:latitude "37.2867233200767" ;
+    rso:longitude "13.526268747391791" .
+
+<http://www.regionesiciliana.it/resource/coordinates20> rso:latitude "37.06489917116933" ;
+    rso:longitude "15.293448043220653" .
+
+<http://www.regionesiciliana.it/resource/coordinates21> rso:latitude "37.901064266027504" ;
+    rso:longitude "15.05143596617454" .
+
+<http://www.regionesiciliana.it/resource/coordinates22> rso:latitude "38.22114167633712" ;
+    rso:longitude "15.242196415516323" .
+
+<http://www.regionesiciliana.it/resource/coordinates23> rso:latitude "38.01457215175903" ;
+    rso:longitude "14.594168092164441" .
+
+<http://www.regionesiciliana.it/resource/coordinates24> rso:latitude "38.07193980351238" ;
+    rso:longitude "14.63517507411412" .
+
+<http://www.regionesiciliana.it/resource/coordinates25> rso:latitude "38.090802966569846" ;
+    rso:longitude "13.54001458139254" .
+
+<http://www.regionesiciliana.it/resource/coordinates26> rso:latitude "38.15530487803596" ;
+    rso:longitude "13.081907152373521" .
+
+<http://www.regionesiciliana.it/resource/coordinates27> rso:latitude "36.762612701259684" ;
+    rso:longitude "14.634376558670159" .
+
+<http://www.regionesiciliana.it/resource/coordinates28> rso:latitude "37.564428172967816" ;
+    rso:longitude "15.162826345734356" .
+
+<http://www.regionesiciliana.it/resource/coordinates29> rso:latitude "37.529226620307654" ;
+    rso:longitude "15.113682299498368" .
+
+<http://www.regionesiciliana.it/resource/coordinates3> rso:latitude "37.09582306799065" ;
+    rso:longitude "13.934397214213279" .
+
+<http://www.regionesiciliana.it/resource/coordinates30> rso:latitude "36.74173169261367" ;
+    rso:longitude "15.11809520430257" .
+
+<http://www.regionesiciliana.it/resource/coordinates31> rso:latitude "36.89145001176172" ;
+    rso:longitude "14.42830598754667" .
+
+<http://www.regionesiciliana.it/resource/coordinates32> rso:latitude "35.49863882231284" ;
+    rso:longitude "12.609167515976685" .
+
+<http://www.regionesiciliana.it/resource/coordinates33> rso:latitude "37.574463278595765" ;
+    rso:longitude "12.90626182618967" .
+
+<http://www.regionesiciliana.it/resource/coordinates34> rso:latitude "37.58159434397268" ;
+    rso:longitude "12.841533992812524" .
+
+<http://www.regionesiciliana.it/resource/coordinates35> rso:latitude "37.03413940688578" ;
+    rso:longitude "15.079032346840915" .
+
+<http://www.regionesiciliana.it/resource/coordinates36> rso:latitude "38.70905639461941" ;
+    rso:longitude "13.195278476739354" .
+
+<http://www.regionesiciliana.it/resource/coordinates37> rso:latitude "38.11475981356863" ;
+    rso:longitude "13.35280584739506" .
+
+<http://www.regionesiciliana.it/resource/coordinates38> rso:latitude "37.50168378969867" ;
+    rso:longitude "15.088664480216941" .
+
+<http://www.regionesiciliana.it/resource/coordinates39> rso:latitude "38.117697870999635" ;
+    rso:longitude "13.369733772076783" .
+
+<http://www.regionesiciliana.it/resource/coordinates4> rso:latitude "37.49068361987" ;
+    rso:longitude "14.060800119184348" .
+
+<http://www.regionesiciliana.it/resource/coordinates40> rso:latitude "38.115663197180496" ;
+    rso:longitude "13.364672984097659" .
+
+<http://www.regionesiciliana.it/resource/coordinates41> rso:latitude "38.10984502705861" ;
+    rso:longitude "13.357061899346835" .
+
+<http://www.regionesiciliana.it/resource/coordinates5> rso:latitude "37.61117494866186" ;
+    rso:longitude "15.164531460965392" .
+
+<http://www.regionesiciliana.it/resource/coordinates6> rso:latitude "37.509551138171" ;
+    rso:longitude "15.088335686039674" .
+
+<http://www.regionesiciliana.it/resource/coordinates7> rso:latitude "37.50176806071056" ;
+    rso:longitude "15.086810639640948" .
+
+<http://www.regionesiciliana.it/resource/coordinates8> rso:latitude "37.731665378183884" ;
+    rso:longitude "15.20529784305386" .
+
+<http://www.regionesiciliana.it/resource/coordinates9> rso:latitude "37.55194504609383" ;
+    rso:longitude "14.285909429094033" .
+
